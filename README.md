@@ -12,6 +12,10 @@ Classification code dataset link : https://drive.google.com/file/d/1M4-Is7Gk1pQE
 Object Detection code dataset link : https://drive.google.com/file/d/1-_zlvu8L5qb3L3Ie0rr96jdmLyPo-RgR/view?usp=sharing
 
 
+
+
+
+
 #11/23 추가 설명
 
 앞선 코드에 객체 탐지 부분에 잎을 추가하여 학습하여 진행하였습니다.
