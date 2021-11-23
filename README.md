@@ -20,4 +20,5 @@ Object Detection code dataset link : https://drive.google.com/file/d/1-_zlvu8L5q
 코드는 변함이 없고 데이터 셋만 바꾸었습니다. 아랫링크에서 받아서 확인하시면 됩니다.
 
 Object Detection code dataset link (leaf added) : https://drive.google.com/file/d/1m-O8SctojiMyK1oh3fSt6KJfQGQv_eYg/view?usp=sharing
+
 ##dataset 폴더 내부에 학습이 완료된 확인용 이미지 10장이 따로 첨부되어 있습니다.
