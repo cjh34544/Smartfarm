@@ -24,3 +24,19 @@ Object Detection code dataset link (leaf added) : https://drive.google.com/file/
 ##dataset 폴더 내부에 학습이 완료된 확인용 이미지 10장이 따로 첨부되어 있습니다.
 
 ##본 데이터로 학습을 진행할 경우, 링크해놓은 파일과 object detection code를 받아서 dataset 파일에 넣어서 학습하시면 됩니다.
+
+------------------------------------------------------------------------------------------------------------------
+
+#12/02 토마토 잎 탐지 코드 추가 구현
+
+앞선 모델과 같으며 잎 탐지 코드를 추가로 구현하였습니다.
+
+Test data는 검증 데이터로 탐지가 완료된 검증 데이터 예시를 첨부하였습니다.
+
+검증용 데이터에는 생육탐지, 잎갯수 탐지, 잎갯수 및 토마토 갯수 탐지 3가지로 나뉘어 있습니다.
+
+토마토 데이터는 AIhub data로 전처리가 완료되어 있습니다.
+
+Test data link : https://drive.google.com/file/d/110k1Y3ra9R7wRx9pF7LduxYdT-O1jFa3/view?usp=sharing
+
+Tomato data link : https://drive.google.com/file/d/1IRMkAOcdLu82kRyKdKkyoK8IkUCUREC1/view?usp=sharing
