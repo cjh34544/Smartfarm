@@ -13,6 +13,8 @@ Test data는 검증 데이터로 탐지가 완료된 검증 데이터 예시를 
 
 토마토 데이터는 AIhub data로 전처리가 완료되어 있습니다.
 
+자세한 사항은 추가설명서12_02.ipynb 파일을 꼭 확인하시길 바라겠습니다.
+
 Test data link : https://drive.google.com/file/d/110k1Y3ra9R7wRx9pF7LduxYdT-O1jFa3/view?usp=sharing
 
 Tomato data link : https://drive.google.com/file/d/1IRMkAOcdLu82kRyKdKkyoK8IkUCUREC1/view?usp=sharing
