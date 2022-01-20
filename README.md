@@ -47,7 +47,7 @@ Object Detection code dataset link (leaf added) : https://drive.google.com/file/
 
 코드만 첨부해 놓았으며 데이터셋은 아래 링크에서 받아서 사용하시면 됩니다.
 
-Classification code dataset link : https://drive.google.com/file/d/1M4-Is7Gk1pQEIDRn2g15WvUaOH2m2fIM/view?usp=sharing
+Classification code dataset link : https://drive.google.com/file/d/1LgPaD2Gxib9wS-Q78WOAv71XPShC9H14/view?usp=sharing
 
 Object Detection code dataset link : https://drive.google.com/file/d/1-_zlvu8L5qb3L3Ie0rr96jdmLyPo-RgR/view?usp=sharing
 
